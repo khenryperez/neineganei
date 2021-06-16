@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CICT - Home</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="homeStyle.css">
+</head>
+<body onload="parallaxStart">
+    <script src="homeJS.js"></script>
+
+    <!-- /HEADER -->
+    <header id="header">
+        <img class="logo" src="img/cictFinal.png" alt="logo">
+        <nav>
+            <ul class="nav_links">
+                <li><a href="home.html">Home</a></li>
+                <li><a href="info.html">Information</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="about.html">About</a></li>
+            </ul>
+        </nav>
+        <!-- <a class="cta" href="#"><button>Contact</button></a> -->
+    </header>
+
+    <!-- /HEADER -->
+
+    <!-- CONTENT -->
+
+    <div id="parallax">
+        <img class="bpsulog" src="img/bpsulog.png" alt="bpsulog">
+        <h2 id="h2BPSU">BATAAN PENINSULA STATE UNIVERSITY</h2>
+    </div>
+
+    <div id="divIDs">
+        <h2 id="h2IDs">
+        Vision:
+        </h2>
+        <br>
+        <p id="bpsuInfo">
+            A leading university in the Philippines recognized for its proactive contribution to Sustainable Development through equitable and inclusive programs and services by 2030
+        </p>
+    
+    </div>
+    <div id="parallax">
+        <h2 id="h2IDs">
+            Who are we?
+        </h2>
+        <br>
+        <p id="bpsuInfo">
+            Student Records Web Application gives a simple interface to view the data of College of Information and Communications Technology students of Bataan Peninsula State University. Student Records Web Application manages important details of the student. Through this web application, school officials, teachers and other personnel can easily monitor the information of the student. 
+        </p>
+    </div>
+    <div id="divIDs">
+        <h2 id="h2IDs">
+            Mission:
+        </h2>
+        <br>
+        <p id="bpsuInfo">
+            To develop competitive graduates and empowered community members by providing relevant, innovative and transformative knowledge, research, extension and production programs and services through progressive enhancement of its human resource capabilities and institutional mechanisms
+        </p>
+    </div>
+
+    <!-- /CONTENT -->
+
+    <!-- SCROLL UP -->
+
+    <button id="btnScrollToTop" onclick="btnClicked()">
+        <i class="material-icons" id="scrlIcon">arrow_upward</i>
+    </button>
+
+    <!-- /SCROLL UP -->
+
+    <!-- MODE -->
+
+    <button id="btnSwitchN" onclick="btnDOMNight()">
+        <i class="material-icons" id="switchIcon">nightlight_round</i>
+    </button>
+
+    <button id="btnSwitchL" onclick="btnDOMLight()">
+        <i class="material-icons" id="switchIcon">lightbulb</i>
+    </button>
+
+    <!-- /MODE -->
+
+    <!-- FOOTER -->
+
+    <!--
+    <div class="footer">
+        <div class="footer-content">
+            <div class="footer-section about"></div>
+            <div class="footer-section links"></div>
+            <div class="footer-section contact-form"></div>>
+        </div>
+    </div>
+    -->
+
+    <div id="footer" class="footerCopy">
+        <div class="footer-bottom">
+            &copy; BSIT-NW2C 2021 | Group#5
+        </div>
+    </div>
+
+    <!-- /FOOTER -->
+</body>
+</html>

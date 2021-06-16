@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<studentrecords>
+	<student>
+		<studID>19-04183</studID>
+		<lastName>Perez</lastName>
+		<firstName>Roque Danielle</firstName>
+		<middleName>Bugay</middleName>
+		<studAge>19</studAge>
+		<studBday>07-16-2001</studBday>
+		<studCourse>BSIT NW2C</studCourse>
+		<studAddress>Morong, Bataan</studAddress>
+		<studEmail>rdbperez@bpsu.edu.ph</studEmail>
+	</student>
+	<student>
+		<studID>19-04888</studID>
+		<lastName>Perez</lastName>
+		<firstName>Khenry John</firstName>
+		<middleName>Olalia</middleName>
+		<studAge>20</studAge>
+		<studBday>09-28-2000</studBday>
+		<studCourse>BSIT NW2C</studCourse>
+		<studAddress>Dinalupihan, Bataan</studAddress>
+		<studEmail>khenryjohnperez@gmail.com</studEmail>
+	</student>
+	<student>
+		<studID>19-00207</studID>
+		<lastName>Navarro</lastName>
+		<firstName>Patricia Kyle</firstName>
+		<middleName>Esguerra</middleName>
+		<studAge>19</studAge>
+		<studBday>06-10-2001</studBday>
+		<studCourse>BSIT NW2C</studCourse>
+		<studAddress>Balanga, Bataan</studAddress>
+		<studEmail>pkesg.nav10@gmail.com</studEmail>
+	</student>
+	<student>
+		<studID>19-00692</studID>
+		<lastName>Feliciano</lastName>
+		<firstName>Romwel</firstName>
+		<middleName>Reyes</middleName>
+		<studAge>20</studAge>
+		<studBday>03-18-2001</studBday>
+		<studCourse>BSIT</studCourse>
+		<studAddress>Tugatog Orani Bataan</studAddress>
+		<studEmail>romfeliciano18@gmail.com</studEmail>
+	</student>
+	<student>
+		<studID>19-04424</studID>
+		<lastName>Cruel</lastName>
+		<firstName>Froilan</firstName>
+		<middleName>Rivera</middleName>
+		<studAge>20</studAge>
+		<studBday>08-21-2000</studBday>
+		<studCourse>BSIT NW2B</studCourse>
+		<studAddress>Alion, Mariveles, Bataan</studAddress>
+		<studEmail>Froilancruel@gmail.com</studEmail>
+	</student>
+	<student>
+		<studID>19-02825</studID>
+		<lastName>Nacin</lastName>
+		<firstName>Ellysa</firstName>
+		<middleName>Camingue</middleName>
+		<studAge>20</studAge>
+		<studBday>09-23-2000</studBday>
+		<studCourse>BSIT NW2C</studCourse>
+		<studAddress>Wawa, Abucay, Bataan</studAddress>
+		<studEmail>ecnacin@bpsu.edu.ph</studEmail>
+	</student>
+	<student>
+		<studID>19-00828</studID>
+		<lastName>Santiago</lastName>
+		<firstName>Roseann</firstName>
+		<middleName>Autingco</middleName>
+		<studAge>20</studAge>
+		<studBday>01-10-2001</studBday>
+		<studCourse>BSIT NW2C</studCourse>
+		<studAddress>Lote Pto. Rivas, Balanga City Bataan</studAddress>
+		<studEmail>santiago.roseann.autingco@gmail.com</studEmail>
+	</student>
+	<student>
+		<studID>19-07019</studID>
+		<lastName>Villanueva</lastName>
+		<firstName>Jaylord</firstName>
+		<middleName>Domingo</middleName>
+		<studAge>22</studAge>
+		<studBday>12-05-1998</studBday>
+		<studCourse>BSIT NW2C</studCourse>
+		<studAddress>Moring, Bataan</studAddress>
+		<studEmail>jaylordvillanueva12@gmail.com</studEmail>
+	</student>
+	<student>
+		<studID>19-01071</studID>
+		<lastName>Cabrera</lastName>
+		<firstName>Kevin Christian</firstName>
+		<middleName>Paradela</middleName>
+		<studAge>20</studAge>
+		<studBday>06-12-2000</studBday>
+		<studCourse>BSIT NW2A</studCourse>
+		<studAddress>:847 Jonas Street San Jose, Balanga City, Bataan</studAddress>
+		<studEmail>kevin.loda11@gmail.com</studEmail>
+	</student>
+	<student>
+		<studID>19-07999</studID>
+		<lastName>Biare</lastName>
+		<firstName>Ericson</firstName>
+		<middleName>Domingo</middleName>
+		<studAge>20</studAge>
+		<studBday>04-31-2001</studBday>
+		<studCourse>BSIT NW2A</studCourse>
+		<studAddress>Purok5, Sabang, Morong, Bataan</studAddress>
+		<studEmail>biareericson@gmail.com</studEmail>
+	</student>
+	<student>
+		<studID>19-00607</studID>
+		<lastName>Dimla</lastName>
+		<firstName>Christian Joseph</firstName>
+		<middleName>Driz</middleName>
+		<studAge>20</studAge>
+		<studBday>12-27-2000</studBday>
+		<studCourse>BSIT NW2B</studCourse>
+		<studAddress>Tenejero Balanga City, Bataan</studAddress>
+		<studEmail>cjdimla1227@gmail.com</studEmail>
+	</student>
+</studentrecords>
